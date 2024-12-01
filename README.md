@@ -8,5 +8,13 @@
   <img alt="Bootstrap" title="Bootstrap" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
 </a>
 
+## Github Statistic
+<p align="left">
+<a href="https://github.com/harunid12">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harunid12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harunid12&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 
