@@ -1,8 +1,3 @@
-<!--
-**harunid12/harunid12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 👋 Hi, My Name is Ahmad Harun
 - 🌱 I am interested in Web Programming.
 - 👯 I’m looking to collaborate on ...
@@ -11,4 +6,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
