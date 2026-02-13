@@ -7,6 +7,11 @@
 <a href="https://getbootstrap.com/">
   <img alt="Bootstrap" title="Bootstrap" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
 </a>
+<a href="https://www.python.org/">
+  <img align="left" alt="Python" title="Python" width="21px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</a>
+
 
 ## Github Statistic
 <p align="left">
