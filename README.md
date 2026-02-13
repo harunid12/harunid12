@@ -11,6 +11,27 @@
   <img align="left" alt="Python" title="Python" width="21px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </a>
+<a href="https://scikit-learn.org/">
+  <img align="left" alt="Machine Learning" title="Machine Learning" width="21px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
+</a>
+<a href="https://opencv.org/">
+  <img align="left" alt="OpenCV" title="Computer Vision" width="21px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+</a>
+<a href="https://huggingface.co/">
+  <img align="left" alt="NLP" title="Natural Language Processing" width="21px"
+  src="https://cdn.simpleicons.org/huggingface" />
+</a>
+<a href="https://fastapi.tiangolo.com/">
+  <img align="left" alt="FastAPI" title="FastAPI" width="21px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+</a>
+<a href="https://flask.palletsprojects.com/">
+  <img align="left" alt="Flask" title="Flask" width="21px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+</a>
+
 
 
 ## Github Statistic
