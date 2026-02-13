@@ -23,6 +23,10 @@
   <img align="left" alt="NLP" title="Natural Language Processing" width="21px"
   src="https://cdn.simpleicons.org/huggingface" />
 </a>
+<a href="https://pytorch.org/">
+  <img align="left" alt="Deep Learning - PyTorch" title="Deep Learning (PyTorch)" width="21px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+</a>
 <a href="https://fastapi.tiangolo.com/">
   <img align="left" alt="FastAPI" title="FastAPI" width="21px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
