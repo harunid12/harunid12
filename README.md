@@ -1,5 +1,11 @@
-- 👋 Hi, My Name is Ahmad Harun
-- 🌱 I am interested in Web Programming.
+Hi, I'm Ahmad Harun  
+AI & Software Engineering Enthusiast 
+
+Research Interests:  
+Machine Learning, Deep Learning, Natural Language Processing (NLP),  
+Computer Vision, and Software Engineering.
+
+
 
 ## Tech Stack
 <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" /></a>
